@@ -1,0 +1,9 @@
+# Wavefront Object Material File
+# Generated using SpeedTree tools
+
+newmtl RedDeliciousApple_Mat
+map_Kd RedDeliciousApple_Color.png
+map_bump RedDeliciousApple_Normal.png
+bump RedDeliciousApple_Normal.png -bm 1
+
+
