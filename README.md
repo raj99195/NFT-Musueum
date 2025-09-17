@@ -19,9 +19,9 @@ We are not just minting tokens – **we are minting experiences.**
 
 ---
 
+
 ## 🏗️ Architecture
-![Architecture Flow](docs/architecture.png)  
-*(Replace with actual diagram image)*  
+![Architecture Flow](Architecture.png)
 
 Flow: **Player → Trigger Zone → CollectionManager → Somnia Blockchain → NFT Collection UI**
 
