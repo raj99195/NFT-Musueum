@@ -43,5 +43,4 @@ Flow: **Player → Trigger Zone → CollectionManager → Somnia Blockchain → 
 
 ## 📂 Resources
 - 📑 **Pitch Deck (PPT)**: [Download here](https://drive.google.com/drive/folders/1f1x0YYyEUQFcpaDSEjnvPWQ2omQxfE3y?usp=sharing)  
-- 🖼️ **Architecture Diagram**: Included in `/docs/`
 
